@@ -5,11 +5,10 @@
 iOS app that allows users to browse images and perform a simple search using the [Picsum API](https://picsum.photos/v2/list). Since Flickr is not available in the UAE due to account issues, this app leverages the Picsum API, which provides a list of images. The app will display a grid of images with continuous scrolling, and users can search images by the author's name. Tapping an image opens a modal with the full-screen image and a placeholder "Lorem Ipsum" text acting as comments.
 
 ---
-![]([https://github.com/Obada2020/cars_encyclopedia_interaction/blob/main/assets/demo.gif](https://i.ibb.co/dsK2MP8Q/Simulator-Screenshot-i-Phone-16-Pro-Max-2025-02-19-at-10-01-35.png))
-
-![]([[https://github.com/Obada2020/cars_encyclopedia_interaction/blob/main/assets/demo.gif](https://i.ibb.co/dsK2MP8Q/Simulator-Screenshot-i-Phone-16-Pro-Max-2025-02-19-at-10-01-35.png](https://i.ibb.co/ccxk27Nq/Simulator-Screenshot-i-Phone-16-Pro-Max-2025-02-19-at-10-01-21.png)))
-
-
+<div style="display: flex; gap: 20px; align-items: center;">
+  <img src="https://i.ibb.co/dsK2MP8Q/Simulator-Screenshot-i-Phone-16-Pro-Max-2025-02-19-at-10-01-35.png" width="300" height="650" alt="Screenshot 1">
+  <a href="https://ibb.co/QFXpY160"><img src="https://i.ibb.co/7Jbjr6Gh/Simulator-Screenshot-i-Phone-16-Pro-Max-2025-02-19-at-10-01-21.png" alt="Simulator-Screenshot-i-Phone-16-Pro-Max-2025-02-19-at-10-01-21" border="0" width="300" height="650"/></a>
+</div>
 
 ## Requirements
 
